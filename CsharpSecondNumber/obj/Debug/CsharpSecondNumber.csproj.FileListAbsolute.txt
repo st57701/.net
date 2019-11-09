@@ -1,0 +1,13 @@
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\obj\Debug\CsharpSecondNumber.csprojAssemblyReference.cache
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\obj\Debug\CsharpSecondNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\bin\Debug\CsharpSecondNumber.exe.config
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\bin\Debug\CsharpSecondNumber.exe
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\bin\Debug\CsharpSecondNumber.pdb
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\bin\Debug\CppFirstNumber.dll
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\bin\Debug\CppFirstNumber.pdb
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\obj\Debug\CsharpSecondNumber.csproj.CopyComplete
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\obj\Debug\CsharpSecondNumber.exe
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\obj\Debug\CsharpSecondNumber.pdb
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\bin\Debug\ThirdNumber.dll
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\bin\Debug\ThirdNumber.pdb
+C:\Users\Lenovo y520\source\repos\NetLa2\CsharpSecondNumber\bin\Debug\ThirdNumber.xml

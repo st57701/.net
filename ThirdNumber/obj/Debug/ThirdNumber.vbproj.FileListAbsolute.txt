@@ -1,0 +1,10 @@
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\bin\Debug\ThirdNumber.dll
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\bin\Debug\ThirdNumber.pdb
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\bin\Debug\ThirdNumber.xml
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\obj\Debug\ThirdNumber.vbprojAssemblyReference.cache
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\obj\Debug\ThirdNumber.Resources.resources
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\obj\Debug\ThirdNumber.vbproj.GenerateResource.cache
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\obj\Debug\ThirdNumber.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\obj\Debug\ThirdNumber.dll
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\obj\Debug\ThirdNumber.xml
+C:\Users\Lenovo y520\source\repos\NetLa2\ThirdNumber\obj\Debug\ThirdNumber.pdb
